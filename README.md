@@ -1,4 +1,4 @@
-# DataStage API Sample
+# InfoSphere DataStage API Sample
 
 This is an updated dsjob.exe sample program demonstrating how to use the DataStage API from C/C++ on Windows.  Originally published in the Server Job Developer's Guide by Ascential Software Corporation prior to acquisition by IBM. Updates include changes to compile without warnings, and support added for domain authentication.
 
