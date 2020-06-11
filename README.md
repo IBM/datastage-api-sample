@@ -1,10 +1,10 @@
 # DataStage API Sample
 
-This is an updated dsjob.exe sample program demonstarting how to use the DataStage API from C/C++ on Windows.
+This is an updated dsjob.exe sample program demonstrating how to use the DataStage API from C/C++ on Windows.  Originally published in the Server Job Developer's Guide by Ascential Software Corporation prior to acquisition by IBM.
 
-This is not a replacement for dsjob provided by DataStage, it is purly an example program.
+This is not a replacement for dsjob provided by DataStage, it is purely an example program and lacks all features.
 
-It can be built using Visual Studio 2010 or above.  You may need to edit or override <ISHomeDir> in [BuildSettings.props](BuildSettings.props) to match your InformationServer installation location.
+It can be built using Visual Studio 2010 or above.  You may need to edit or override \<ISHomeDir\> in [BuildSettings.props](BuildSettings.props) to match your InformationServer installation location.
 
 For usage, run without any arguments.
 
