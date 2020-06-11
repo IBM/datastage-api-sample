@@ -4,7 +4,7 @@ This is an updated dsjob.exe sample program demonstrating how to use the DataSta
 
 This is not a replacement for dsjob provided by DataStage, it is purely an example and lacks most features of the complete implementation.
 
-It can be built using Microsoft Visual Studio 2010 or above.  You may need to edit or override \<ISHomeDir\> in [BuildSettings.props](BuildSettings.props) to match your InformationServer installation location.
+It can be built using Microsoft Visual Studio 2010 or above.  You may need to edit or override \<ISHomeDir\> in [BuildSettings.props](BuildSettings.props) to match your InformationServer installation location if different from the default C:\IBM\InformationServer.
 
 For usage, run without any arguments.
 
